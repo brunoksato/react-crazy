@@ -1,0 +1,15 @@
+{
+  "name": "react-crazy",
+  "version": "0.0.0",
+  "authors": [
+    "Bruno Sato <bruno.sato@live.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
